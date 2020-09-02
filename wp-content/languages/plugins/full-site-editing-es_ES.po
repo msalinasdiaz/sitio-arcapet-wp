@@ -1,0 +1,870 @@
+# Translation of Plugins - WordPress.com Editing Toolkit - Stable (latest release) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - WordPress.com Editing Toolkit - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-08-20 10:54:10+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - WordPress.com Editing Toolkit - Stable (latest release)\n"
+
+#: block-patterns/patterns/list.php:44
+msgid "Lucie Avila"
+msgstr "Lucie Avila"
+
+#: block-patterns/patterns/list.php:43
+msgid "Emily Fry"
+msgstr "Emily Fry"
+
+#: block-patterns/patterns/list.php:42
+msgid "Mason Decker"
+msgstr "Mason Decker"
+
+#: block-patterns/patterns/list.php:41
+msgid "Veronica England"
+msgstr "Veronica England"
+
+#: block-patterns/patterns/list.php:39
+msgid "Brianna Willis"
+msgstr "Brianna Willis"
+
+#: block-patterns/patterns/list.php:38
+msgid "Nettie Peck"
+msgstr "Nettie Peck"
+
+#: block-patterns/patterns/list.php:37
+msgid "Monica Humphrey"
+msgstr "Monica Humphrey"
+
+#: block-patterns/patterns/list.php:36
+msgid "Hollie Blankenship"
+msgstr "Hollie Blankenship"
+
+#: block-patterns/patterns/list.php:35
+msgid "Christine Russell"
+msgstr "Christine Russell"
+
+#: block-patterns/patterns/list.php:34
+msgid "Beth Silva"
+msgstr "Beth Silva"
+
+#: block-patterns/patterns/list.php:30
+msgid "List"
+msgstr "Lista"
+
+#: block-patterns/patterns/coming-soon.php:41
+msgid "CA 12345-6789"
+msgstr "CA 12345-6789"
+
+#: block-patterns/patterns/coming-soon.php:39
+msgid "Come back here when our journey begins."
+msgstr "Vuelve aquí cuando nuestro viaje empiece."
+
+#: block-patterns/patterns/coming-soon.php:34
+#: block-patterns/patterns/coming-soon.php:38
+msgid "Coming Soon"
+msgstr "Próximamente"
+
+#: block-patterns/patterns/images-with-titles.php:71
+msgid "Overton - 2018"
+msgstr "Overton - 2018"
+
+#: block-patterns/patterns/images-with-titles.php:70
+msgid "Easley Magazine - 2019"
+msgstr "Easley Magazine - 2019"
+
+#: block-patterns/patterns/images-with-titles.php:69
+msgid "Vesta Magazine - 2019"
+msgstr "Vesta Magazine - 2019"
+
+#: block-patterns/patterns/images-with-titles.php:68
+msgid "Brice - 2020"
+msgstr "Brice - 2020"
+
+#: block-patterns/patterns/images-with-titles.php:64
+msgid "Image with Titles"
+msgstr "Imagen con títulos"
+
+#: block-patterns/patterns/numbered-list.php:101
+msgid "Look at the sunset. Surround yourself with angels, positive energy, beautiful people, beautiful souls, clean heart, angel."
+msgstr "Observa el atardecer. Rodéate de ángeles, energía positiva, gente amable, almas bonitas, corazón limpio, ángel."
+
+#: block-patterns/patterns/numbered-list.php:100
+msgid "Grow"
+msgstr "Crece"
+
+#: block-patterns/patterns/numbered-list.php:99
+msgid "04"
+msgstr "04"
+
+#: block-patterns/patterns/numbered-list.php:98
+msgid "We don’t see them, we will never see them. To be successful you’ve got to work hard, to make history, simple, you’ve got to make it."
+msgstr "No los vemos, nunca los veremos. Para tener éxito, debes trabajar duro. Para pasar a la historia, tan solo tienes que crearla."
+
+#: block-patterns/patterns/numbered-list.php:97
+msgid "Success"
+msgstr "Correcto"
+
+#: block-patterns/patterns/numbered-list.php:96
+msgid "03"
+msgstr "03"
+
+#: block-patterns/patterns/numbered-list.php:95
+msgid "You see the hedges, how I got it shaped up? It’s important to shape up your hedges, it’s like getting a haircut, stay fresh."
+msgstr "¿Has visto los matorrales y cómo los he podado? Es importante podar los matorrales. Es como ir a la peluquería, para mantenerse."
+
+#: block-patterns/patterns/numbered-list.php:94
+msgid "Design"
+msgstr "Diseño"
+
+#: block-patterns/patterns/numbered-list.php:93
+msgid "02"
+msgstr "02"
+
+#: block-patterns/patterns/numbered-list.php:92
+msgid "Always remember in the jungle there’s a lot of them in there, after you overcome them, you will make it to paradise."
+msgstr "Siempre recuerda que en la jungla hay muchos así. Una vez los superes, estarás en el paraíso."
+
+#: block-patterns/patterns/numbered-list.php:91
+msgid "Strategy"
+msgstr "Estrategia"
+
+#: block-patterns/patterns/numbered-list.php:90
+msgid "01"
+msgstr "01"
+
+#: block-patterns/patterns/numbered-list.php:86
+msgid "Numbered List"
+msgstr "Lista numerada"
+
+#: block-patterns/patterns/contact-04.php:78
+msgid "Closed"
+msgstr "Cerrado"
+
+#: block-patterns/patterns/contact-04.php:77
+msgid "Sunday:"
+msgstr "Domingo:"
+
+#: block-patterns/patterns/contact-04.php:76
+msgid "Saturday:"
+msgstr "Sábado:"
+
+#: block-patterns/patterns/contact-04.php:75
+msgid "Friday:"
+msgstr "Viernes:"
+
+#: block-patterns/patterns/contact-04.php:74
+msgid "Thursday:"
+msgstr "Jueves:"
+
+#: block-patterns/patterns/contact-04.php:73
+msgid "Wednesday:"
+msgstr "Miércoles:"
+
+#: block-patterns/patterns/contact-04.php:72
+msgid "Tuesday:"
+msgstr "Martes:"
+
+#: block-patterns/patterns/contact-04.php:71
+msgid "11:00 – 22:00"
+msgstr "11:00 – 22:00"
+
+#: block-patterns/patterns/contact-04.php:70
+msgid "Monday:"
+msgstr "Lunes:"
+
+#: block-patterns/patterns/contact-04.php:68
+msgid "CA 12345-678"
+msgstr "CA 12345-678"
+
+#: block-patterns/patterns/coming-soon.php:40
+#: block-patterns/patterns/contact-04.php:67
+msgid "123 Example St, San Francisco,"
+msgstr "123 Calle Ejemplo, San Francisco,"
+
+#: block-patterns/patterns/contact-04.php:66
+msgid "Burger Brothers"
+msgstr "Burger Brothers"
+
+#: block-patterns/patterns/tiled-mosaic-gallery.php:16
+msgid "Tiled Mosaic Gallery"
+msgstr "Galería apilada de mosaicos"
+
+#: block-patterns/patterns/two-column-text-and-image.php:51
+msgid "It was his sanctuary, the place where he would go to rest, but also to celebrate. Those that were once there always highlight the Peace they felt around the building. Was it the endless organic shapes? Was it the assurance they felt from the precision of its geometrical lines? Or was it him?"
+msgstr "Era su santuario, el lugar donde iba a descansar, pero también a celebrar. Aquellos que una vez estuvieron allí destacan la paz que sintieron en el edificio. ¿Eran las formas orgánicas interminables? ¿Era la seguridad que sentían de la precisión de sus líneas geométricas? ¿O era él?"
+
+#: block-patterns/patterns/two-column-text-and-image.php:50
+msgid "Some still say its organic shapes were a reflection of the constant movement of thoughts on his never-ending ideas. It was remarkable but prudent, complex but minimal, and it&rsquo;s geometrical lines contrasted beautifully with the curly waves that defined it."
+msgstr "Algunos dicen que sus formas orgánicas eran el reflejo del movimiento constante de pensamientos en sus ideas sin fin. Era destacable pero prudente, complejo pero minimalista, y sus líneas geométricas contrastaban con las ondulaciones que lo definían."
+
+#: block-patterns/patterns/two-column-text-and-image.php:46
+msgid "Two Column Text and Image"
+msgstr "Texto e imagen de dos columnas"
+
+#: block-patterns/patterns/portraits-and-text.php:89
+msgid "Senior Product Designer at Idea. Previously Senior Design Director at Minova, UX Design Manager at Ryman. Elise’s work has been featured as pioneer in CX as best practice."
+msgstr "Diseñadora de Producto Senior en Idea. Anteriormente Directora de Diseño Senior en Minova, Gestor de Diseño UX en Ryman. El trabajo de Elise ha sido destacado como pionero en prácticas recomendadas de experiencia de cliente."
+
+#: block-patterns/patterns/portraits-and-text.php:88
+#: block-patterns/patterns/list.php:40
+msgid "Elise Pratt"
+msgstr "Elise Pratt"
+
+#: block-patterns/patterns/portraits-and-text.php:87
+msgid "UX Manager at Clockwork. He formerly pioneered the Design System at Blue Sun, and led the Moonlight at Wonders and Co.. Previously Mason was at Sigma and led the product evolution."
+msgstr "Gestor de UX en Clockwork. Fue pionero en sistemas de diseño en Blue Sun y dirigió Moonlight and Wonders and Co. Antes, Mason trabajaba en Sigma y dirigía la evolución del producto."
+
+#: block-patterns/patterns/portraits-and-text.php:86
+msgid "Miguel Ángel"
+msgstr "Miguel Ángel"
+
+#: block-patterns/patterns/portraits-and-text.php:85
+msgid "Senior Product Designer at Vaxx and is responsible for transforming UX across the company’s products. Previously, he held leadership roles at TypeTester."
+msgstr "Diseñador de Producto Senior en Vaxx y responsable de transformar la experiencia de usuario en los productos de la empresa. Anteriormente, había trabajado en puestos de liderazgo en TypeTester."
+
+#: block-patterns/patterns/portraits-and-text.php:84
+msgid "Chris Russell"
+msgstr "Chris Russel"
+
+#: block-patterns/patterns/portraits-and-text.php:83
+msgid "Design Director at EJ Solutions focusing on raising the standard of communication online. She has been leading several award-winning branding projects. including Strn."
+msgstr "Directora de Diseño en EJ Solutions con el objetivo de crear el estándar de la comunicación online. Ha estado dirigiendo varios proyectos de branding ganadores de premios, como Strn."
+
+#: block-patterns/patterns/portraits-and-text.php:82
+msgid "Natsuho Kishi"
+msgstr "Natsuho Kishi"
+
+#: block-patterns/patterns/portraits-and-text.php:78
+msgid "Portraits and Text"
+msgstr "Retratos y texto"
+
+#: block-patterns/patterns/call-to-action-03.php:62
+msgid "We are uniting our resources around this challenge, and we are combining our resources and asks to make it easy for people to support their communities."
+msgstr "Estamos uniendo nuestros recursos en este desafío, y estamos combinando nuestros recursos y peticiones para facilitar que la gente ayude a sus comunidades."
+
+#: block-patterns/patterns/call-to-action-03.php:61
+msgid "Are you a business?"
+msgstr "¿Tienes un negocio?"
+
+#: block-patterns/patterns/call-to-action-03.php:60
+msgid "Get involved"
+msgstr "Únete"
+
+#: block-patterns/patterns/call-to-action-03.php:59
+msgid "We’ve had an incredible response so far, and are doing everything we can to respond to everyone who wants to volunteer in one of our community programmes."
+msgstr "Hemos recibido muchas respuestas hasta ahora, y hemos hecho todo lo posible para responder a todo el mundo que quiera participar voluntariamente en alguno de nuestros programas de comunidad."
+
+#: block-patterns/patterns/call-to-action-03.php:58
+msgid "Want to volunteer?"
+msgstr "¿Quieres participar como voluntario?"
+
+#: block-patterns/class-block-patterns.php:55
+msgctxt "Block pattern category"
+msgid "List"
+msgstr "Lista"
+
+#: block-patterns/class-block-patterns.php:54
+msgctxt "Block pattern category"
+msgid "Images"
+msgstr "Imágenes"
+
+#: block-patterns/class-block-patterns.php:53
+msgctxt "Block pattern category"
+msgid "Contact"
+msgstr "Contacto"
+
+#: block-patterns/class-block-patterns.php:52
+msgctxt "Block pattern category"
+msgid "Call to Action"
+msgstr "Llamada a la acción"
+
+#: block-patterns/class-block-patterns.php:51
+msgctxt "Block pattern category"
+msgid "Blog"
+msgstr "Blog"
+
+#: mailerlite/subscriber-popup.php:116
+msgid "UUID:"
+msgstr "UUID:"
+
+#. translators: link to documentation
+#: mailerlite/subscriber-popup.php:113
+msgid "Account ID <a href=\"%s\" target=\"_blank\">(instructions)</a>:"
+msgstr "ID de cuenta <a href=\"%s\" target=\"_blank\">(instrucciones)</a>:"
+
+#. translators: %1$s - URL to manage the widget, %2$s - documentation URL.
+#: mailerlite/subscriber-popup.php:42
+msgid "You need to enter your numeric account ID and UUID for the <a href=\"%1$s\">Mailerlite Widget</a> to work correctly. <a href=\"%2$s\" target=\"_blank\">Full instructions</a>."
+msgstr "Debes introducir tu ID de cuenta numérico y UUID para que el <a href=\"%1$s\">widget de Mailerlite</a> funcione bien. <a href=\"%2$s\" target=\"_blank\">Instrucciones completas</a>."
+
+#: mailerlite/subscriber-popup.php:20
+msgid "Display Mailerlite subscriber popup"
+msgstr "Mostrar formulario emergente de suscripción a Mailerlite"
+
+#: mailerlite/subscriber-popup.php:17
+msgid "Mailerlite subscriber popup"
+msgstr "Formulario emergente de suscripción a Mailerlite"
+
+#: block-patterns/patterns/recent-posts-02.php:27
+msgid "Latest Posts"
+msgstr "Últimas entradas"
+
+#: block-patterns/patterns/recent-posts.php:17
+#: block-patterns/patterns/recent-posts-02.php:23
+msgid "Recent Posts"
+msgstr "Entradas recientes"
+
+#: block-patterns/patterns/headline-02.php:32
+msgid "Hi, I’m Lillie. Previously a magazine editor, I became a full-time mother and freelance writer in 2017. I spend most of my time with my kids and husband over at The Brown Bear Family."
+msgstr "Hola, soy Lillie. Trabajé de editora en una revista hasta que me convertí en madre a tiempo completo y escritora independiente en 2017. Paso la mayor parte del tiempo con mis hijos y mi marido en La familia oso."
+
+#: block-patterns/patterns/headline-02.php:31
+msgid "Eat Dessert First is for my love of food and sharing my favorites with you."
+msgstr "En El postre primero, quiero mostrar mi amor por la comida y compartir lo que más me gusta con todos vosotros."
+
+#: block-patterns/patterns/image-and-text.php:39
+msgid "His latest work is A Life Well-Lived, a selection of photos and stories of people across Nebraska highlighting their stories from the past 70 years. These are photographs and stories of those who might be forgotten in the rush of history."
+msgstr "Su última obra fue \"A Life Well-Lived\" (\"Una vida bien vivida\"), una selección de fotos e historias de personas de toda la región de Nebraska de los últimos 70 años. Se trata de fotografías e historias de personas que podrían caer en el olvido a causa de la inercia del progreso."
+
+#: block-patterns/patterns/image-and-text.php:35
+msgid "Image and Text"
+msgstr "Imagen y texto"
+
+#: block-patterns/patterns/contact.php:57
+msgid "Get in touch"
+msgstr "Contactar"
+
+#: block-patterns/patterns/numbers.php:52
+msgid "Matches last year"
+msgstr "Coincidencias del último año"
+
+#: block-patterns/patterns/numbers.php:51
+msgid "1,927"
+msgstr "1927"
+
+#: block-patterns/patterns/numbers.php:50
+msgid "Volunteer opportunities"
+msgstr "Oportunidades de voluntariado"
+
+#: block-patterns/patterns/numbers.php:49
+msgid "1,132"
+msgstr "1132"
+
+#: block-patterns/patterns/numbers.php:48
+msgid "Volunteers available"
+msgstr "Voluntarios disponibles"
+
+#: block-patterns/patterns/numbers.php:47
+msgid "1,652"
+msgstr "1652"
+
+#: block-patterns/patterns/numbers.php:43
+msgid "Numbers"
+msgstr "Números"
+
+#: block-patterns/patterns/three-columns-and-image.php:69
+msgid "Three columns"
+msgstr "Tres columnas"
+
+#: block-patterns/patterns/contact-03.php:60
+#: block-patterns/patterns/contact.php:60
+#: block-patterns/patterns/coming-soon.php:42
+#: block-patterns/patterns/contact-02.php:54
+#: block-patterns/patterns/contact-04.php:69
+msgid "hello@example.com"
+msgstr "hola@ejemplo.com"
+
+#: block-patterns/patterns/contact-03.php:59
+msgid "123-456-7890"
+msgstr "123-456-7890"
+
+#: block-patterns/patterns/contact-03.php:58
+#: block-patterns/patterns/contact.php:59
+#: block-patterns/patterns/contact-02.php:53
+msgid "San Francisco, California"
+msgstr "San Francisco, California"
+
+#: block-patterns/patterns/contact-03.php:57
+#: block-patterns/patterns/contact.php:58
+#: block-patterns/patterns/contact-02.php:52
+msgid "Jennifer Dolan Photography"
+msgstr "Fotografía Jennifer Dolan"
+
+#: block-patterns/patterns/contact-03.php:53
+#: block-patterns/patterns/contact.php:53
+#: block-patterns/patterns/contact-02.php:47
+#: block-patterns/patterns/contact-02.php:51
+#: block-patterns/patterns/contact-04.php:62
+msgid "Contact"
+msgstr "Contacto"
+
+#: premium-content/premium-content.php:326
+#: premium-content/blocks/buttons/edit.js:35
+#: premium-content/dist/premium-content.js:26
+msgid "Subscribe"
+msgstr "Suscribirse"
+
+#: premium-content/premium-content.php:317
+msgid "Log In"
+msgstr "Acceder"
+
+#: block-patterns/patterns/call-to-action-02.php:40
+#: block-patterns/patterns/call-to-action-03.php:54
+msgid "Call to Action"
+msgstr "Llamada a la acción"
+
+#: block-patterns/patterns/call-to-action-02.php:26
+msgid "Order now"
+msgstr "Pedir ahora"
+
+#: block-patterns/patterns/call-to-action-02.php:21
+msgid "If you can&#8217;t come to us, we&#8217;ll go to you."
+msgstr "Si no puedes llegar a nosotros, nosotros llegaremos a ti."
+
+#: block-patterns/patterns/call-to-action-02.php:17
+msgid "Get it delivered"
+msgstr "Nosotros te lo entregamos"
+
+#: newspack-blocks/synced-newspack-blocks/blocks/carousel/view.php:234
+#: newspack-blocks/synced-newspack-blocks/blocks/carousel/view.php:262
+msgid "Play Slideshow"
+msgstr "Reproducir la presentación"
+
+#: newspack-blocks/synced-newspack-blocks/blocks/carousel/view.php:233
+#: newspack-blocks/synced-newspack-blocks/blocks/carousel/view.php:256
+msgid "Pause Slideshow"
+msgstr "Pausar la presentación"
+
+#: newspack-blocks/synced-newspack-blocks/blocks/carousel/view.php:182
+#: newspack-blocks/synced-newspack-blocks/blocks/carousel/view.php:195
+msgid "Previous Slide"
+msgstr "Diapositiva anterior"
+
+#: newspack-blocks/synced-newspack-blocks/blocks/carousel/view.php:181
+#: newspack-blocks/synced-newspack-blocks/blocks/carousel/view.php:196
+msgid "Next Slide"
+msgstr "Diapositiva siguiente"
+
+#. translators: %d: Slide number.
+#: newspack-blocks/synced-newspack-blocks/blocks/carousel/view.php:163
+msgid "Go to slide %d"
+msgstr "Ir a la diapositiva %d"
+
+#. translators: %s: post author.
+#: newspack-blocks/synced-newspack-blocks/blocks/carousel/view.php:135
+msgctxt "post author"
+msgid "by %s"
+msgstr "de %s"
+
+#: block-patterns/patterns/headline.php:50
+msgid "More Recipes"
+msgstr "Más recetas"
+
+#: block-patterns/patterns/headline.php:48
+msgid "Weekly Recipe"
+msgstr "Receta semanal"
+
+#: block-patterns/patterns/food-menu.php:71
+msgid "Fresh greens with cheddar cheese diced tomatoes, and honey mustard dressing."
+msgstr "Verduras frescas con tomates cortados en dados rellenos de queso cheddar y un aderezo de mostaza con miel."
+
+#: block-patterns/patterns/food-menu.php:70
+msgid "Garden Salad"
+msgstr "Ensalada jardinera"
+
+#: block-patterns/patterns/food-menu.php:69
+msgid "A delicious, soy, boca patty, served on a freshly toasted, whole-wheat bun."
+msgstr "Una deliciosa hamburguesa de soja, servida en un pan integral recién tostado."
+
+#: block-patterns/patterns/food-menu.php:68
+msgid "Veggie Burger"
+msgstr "Hamburguesa vegetal"
+
+#: block-patterns/patterns/food-menu.php:67
+msgid "Cajun chicken breast with lettuce and tomato on a freshly toasted bun."
+msgstr "Pechuga de pollo cajún con lechuga y tomate en un bollo recién tostado."
+
+#: block-patterns/patterns/food-menu.php:66
+msgid "Chicken Sandwich"
+msgstr "Sándwich de pollo"
+
+#: block-patterns/patterns/food-menu.php:65
+msgid "$8.00"
+msgstr "8,00 $"
+
+#: block-patterns/patterns/food-menu.php:64
+msgid "The burger that made us famous. 100% pure lean beef grilled to perfection."
+msgstr "La hamburguesa que nos hizo famosos. Carne magra 100 % pura a la parrilla, cocinada a la perfección."
+
+#: block-patterns/patterns/food-menu.php:63
+msgid "Awesome Burger"
+msgstr "Hamburguesa fabulosa"
+
+#: block-patterns/patterns/food-menu.php:59
+msgid "Food Menu"
+msgstr "Carta"
+
+#: newspack-blocks/synced-newspack-blocks/class-newspack-blocks.php:454
+msgid "Common"
+msgstr "Común"
+
+#: block-patterns/patterns/description-and-image.php:33
+msgid "Description and Image"
+msgstr "Descripción e imagen"
+
+#: block-patterns/patterns/three-columns-and-image.php:76
+msgid "Then whoever was on his way from that placed hurried, and whoever was coming toward it stayed where he was until he had permission to move on."
+msgstr "Entonces, el que se iba de ese lugar se daba prisa y el que se acercaba al lugar se quedaba donde estaba hasta que tenía permiso para seguir adelante."
+
+#: block-patterns/patterns/three-columns-and-image.php:75
+msgid "None of these was of more use to me than the call for refuge. If any Outlier wished to be private in his place, he raised that call, which all who were within hearing answered."
+msgstr "Nada de esto me sirvió más que la llamada al refugio. Si alguno de los Outland quería tener privacidad, hacía esa llamada, a la que respondían todos los que estaban cerca."
+
+#: block-patterns/patterns/three-columns-and-image.php:74
+msgid "I had learned already many of the Outland methods of communicating by forest notes rather than trust to the betraying, high-pitched human voice."
+msgstr "Ya había aprendido muchos de los métodos de los Outland para comunicarse por notas en el bosque en lugar de confiar en la traicionera y aguda voz humana."
+
+#: block-patterns/patterns/three-columns-and-image.php:73
+msgid "Salainis"
+msgstr "Salainis"
+
+#: block-patterns/patterns/three-images-side-by-side.php:45
+msgid "Three images side-by-side"
+msgstr "Tres imágenes contiguas"
+
+#: block-patterns/patterns/masonry-gallery.php:15
+msgid "Masonry gallery"
+msgstr "Masonry Gallery"
+
+#: block-patterns/patterns/headline.php:49
+msgid "Stay Warm in Autumn: Roasted Pumpkin Soup"
+msgstr "Recetas para otoño: Sopa de calabaza asada"
+
+#: block-patterns/patterns/headline.php:43
+#: block-patterns/patterns/headline-02.php:27
+msgid "Headline"
+msgstr "Encabezado"
+
+#: block-patterns/patterns/image-and-description.php:38
+#: block-patterns/patterns/description-and-image.php:37
+msgid "The artist is the creator of beautiful things. To reveal art and conceal the artist is art&#8217;s aim. The critic is he who can translate into another manner or a new material his impression of beautiful things."
+msgstr "El artista es creador de belleza. Revelar el arte y ocultar al artista es la meta del arte. El crítico es quien puede traducir de manera distinta o con nuevos materiales su impresión de la belleza."
+
+#: block-patterns/patterns/image-and-description.php:33
+msgid "Image and Description"
+msgstr "Imagen y descripción"
+
+#: block-patterns/patterns/two-images-and-quote.php:49
+msgid "&#8220;The artist is the creator of beautiful things. To reveal art and conceal the artist is art&#8217;s aim. The critic is he who can translate into another manner or a new material his impression of beautiful things.&#8221;"
+msgstr "“El artista es creador de belleza. Revelar el arte y ocultar al artista es la meta del arte. El crítico es quien puede traducir de manera distinta o con nuevos materiales su impresión de la belleza”."
+
+#: block-patterns/patterns/two-images-and-quote.php:43
+msgid "Two images and quote"
+msgstr "Dos imágenes y una cita"
+
+#: block-patterns/patterns/two-images-side-by-side.php:35
+msgid "Two images side-by-side"
+msgstr "Dos imágenes contiguas"
+
+#: block-patterns/patterns/collage-gallery.php:15
+msgid "Collage gallery"
+msgstr "Galería de collage"
+
+#: site-editor/index.php:40 site-editor/index.php:41
+msgid "Site Editor (beta)"
+msgstr "Editor de sitios (beta)"
+
+#: newspack-blocks/synced-newspack-blocks/blocks/homepage-articles/view.php:140
+#: newspack-blocks/dist/blog-posts-block-editor.js:6
+msgid "Load more posts"
+msgstr "Cargar más entradas"
+
+#: newspack-blocks/synced-newspack-blocks/blocks/homepage-articles/view.php:241
+#: newspack-blocks/dist/blog-posts-block-editor.js:6
+#: newspack-blocks/dist/carousel-block-editor.js:6
+#: newspack-blocks/synced-newspack-blocks/shared/js/utils.js:30
+msgctxt "post author"
+msgid " and "
+msgstr " y "
+
+#: newspack-blocks/synced-newspack-blocks/blocks/homepage-articles/view.php:218
+#: newspack-blocks/dist/blog-posts-block-editor.js:6
+#: newspack-blocks/dist/carousel-block-editor.js:6
+#: newspack-blocks/synced-newspack-blocks/shared/js/utils.js:18
+msgctxt "post author"
+msgid "by"
+msgstr "por"
+
+#: newspack-blocks/synced-newspack-blocks/blocks/homepage-articles/view.php:148
+msgid "Something went wrong. Please refresh the page and/or try again."
+msgstr "Algo ha ido mal. Por favor, recarga la página y/o inténtalo de nuevo."
+
+#: newspack-blocks/synced-newspack-blocks/blocks/homepage-articles/view.php:145
+msgid "Loading..."
+msgstr "Cargando..."
+
+#: dotcom-fse/class-full-site-editing.php:265
+#: starter-page-templates/index.js:60
+#: starter-page-templates/dist/starter-page-templates.js:6
+msgid "Page Layout"
+msgstr "Diseño de la página"
+
+#: dotcom-fse/blocks/site-credit/index.php:155
+msgid "WordPress Icon"
+msgstr "Icono de WordPress"
+
+#: dotcom-fse/blocks/site-credit/index.php:150
+msgid "Proudly powered by WordPress"
+msgstr "Funciona gracias a WordPress"
+
+#: dotcom-fse/class-full-site-editing.php:624
+msgid "WordPress Footer Credit"
+msgstr "Acreditación de WordPress en el pie de página"
+
+#: dotcom-fse/templates/class-wp-template.php:149
+msgid "Footer"
+msgstr "Pie de página"
+
+#: dotcom-fse/templates/class-wp-template.php:147
+msgid "Header"
+msgstr "Cabecera"
+
+#: dotcom-fse/blocks/navigation-menu/index.php:86
+msgid "collapsed"
+msgstr "cerrado"
+
+#: dotcom-fse/blocks/navigation-menu/index.php:85
+msgid "expanded"
+msgstr "expandido"
+
+#: dotcom-fse/blocks/navigation-menu/index.php:82
+msgid "Menu"
+msgstr "Menú"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:399
+msgctxt "Default page title"
+msgid "Contact"
+msgstr "Contacto"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:387
+msgctxt "Default page title"
+msgid "About"
+msgstr "Acerca de"
+
+#: dotcom-fse/class-full-site-editing.php:575
+msgid "Template Types cannon be deleted."
+msgstr "No se pueden borrar los tipos de plantillas."
+
+#: dotcom-fse/class-full-site-editing.php:537
+msgid "Templates cannot be moved to drafts."
+msgstr "Las plantillas no se pueden mover a borradores."
+
+#: dotcom-fse/class-full-site-editing.php:523
+msgid "Templates cannot be deleted."
+msgstr "No se pueden borrar las plantillas."
+
+#. translators: %s: "Back to Post", "Back to Page", "Back to Template", etc.
+#: dotcom-fse/class-full-site-editing.php:271
+msgid "Back to %s"
+msgstr "Volver a %s"
+
+#: starter-page-templates/class-wp-rest-sideload-image-controller.php:76
+msgid "Invalid parent type."
+msgstr "Tipo superior no válido."
+
+#: starter-page-templates/class-starter-page-templates.php:149
+msgid "No templates available. Skipped showing modal window with template selection."
+msgstr "No hay plantillas disponibles. Se ignoró la visualización de la ventana emergente con la selección de la plantilla."
+
+#: starter-page-templates/class-starter-page-templates.php:140
+msgid "No data received from the vertical API. Skipped showing modal window with template selection."
+msgstr "No se han recibido datos de la API vertical. Se ignoró la visualización de la ventana emergente con la selección de la plantilla."
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:516
+msgid "Back to template part types"
+msgstr "Volver a los tipos de parte de plantilla"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:515
+msgid "No template part types found."
+msgstr "No se han encontrado tipos de parte de plantilla."
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:514
+msgid "Search Template Part Types"
+msgstr "Buscar tipos de parte de plantilla"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:513
+msgid "Parent Template Part Type:"
+msgstr "Tipo de parte de plantilla superior:"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:512
+msgid "Parent Template Part Type"
+msgstr "Tipo de parte de plantilla superior"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:511
+msgid "New Template Part Type"
+msgstr "Nuevo tipo de parte de plantilla"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:510
+msgid "Add New Template Part Type"
+msgstr "Añadir nuevo tipo de parte de plantilla"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:509
+msgid "Update Template Part Type"
+msgstr "Actualizar tipo de parte de plantilla"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:508
+msgid "View Template Part Type"
+msgstr "Ver tipo de parte de plantilla"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:507
+msgid "Edit Template Part Type"
+msgstr "Editar tipo de parte de plantilla"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:506
+msgid "All Template Part Types"
+msgstr "Todos los tipos de parte de plantilla"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:505
+msgctxt "admin menu"
+msgid "Template Part Types"
+msgstr "Tipos de parte de plantilla"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:504
+msgctxt "taxonomy singular name"
+msgid "Template Part Type"
+msgstr "Tipo de parte de plantilla"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:503
+msgctxt "taxonomy general name"
+msgid "Template Part Types"
+msgstr "Tipos de parte de plantilla"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:465
+msgid "Template part updated."
+msgstr "Parte de plantilla actualizada."
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:464
+msgid "Template part scheduled."
+msgstr "Parte de plantilla programada."
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:463
+msgid "Template part reverted to draft."
+msgstr "Parte de plantilla guardada como borrador."
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:462
+msgid "Template part published privately."
+msgstr "Parte de plantilla publicada como privada."
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:461
+msgid "Template part published."
+msgstr "Parte de plantilla publicada."
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:460
+msgid "Template parts list"
+msgstr "Lista de partes de plantilla"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:459
+msgid "Template parts list navigation"
+msgstr "Navegación por la lista de partes de plantilla"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:458
+msgid "Filter template parts list"
+msgstr "Filtrar lista de partes de plantilla"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:457
+msgid "No template parts found in Trash."
+msgstr "No se han encontrado partes de plantilla en la papelera."
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:456
+msgid "No template parts found."
+msgstr "No se han encontrado partes de plantilla."
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:455
+msgid "Search Template Parts"
+msgstr "Buscar partes de plantilla"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:454
+msgid "All Template Parts"
+msgstr "Todas las partes de plantilla"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:453
+msgid "View Template Part"
+msgstr "Ver parte de plantilla"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:452
+msgid "Edit Template Part"
+msgstr "Editar parte de plantilla"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:451
+msgid "New Template Part"
+msgstr "Nueva parte de plantilla"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:450
+msgid "Add New Template Part"
+msgstr "Añadir nueva parte de plantilla"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:448
+msgctxt "add new on admin bar"
+msgid "Template Part"
+msgstr "Parte de plantilla"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:447
+msgctxt "admin menu"
+msgid "Template Parts"
+msgstr "Partes de plantilla"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:446
+msgctxt "post type singular name"
+msgid "Template Part"
+msgstr "Parte de plantilla"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:445
+msgctxt "post type general name"
+msgid "Template Parts"
+msgstr "Partes de plantilla"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:449
+msgctxt "Template"
+msgid "Add New"
+msgstr "Añadir nueva"
+
+#: posts-list-block/class-posts-list-block.php:165
+msgid "Read more"
+msgstr "Leer más"
+
+#. translators: %s: Name of current post
+#: posts-list-block/class-posts-list-block.php:162
+msgid "Continue reading %s"
+msgstr "Sigue leyendo %s"
+
+#: posts-list-block/templates/post-item.php:36
+#: premium-content/blocks/container/tabs.js:46
+#: premium-content/dist/premium-content.js:26
+msgid "Edit"
+msgstr "Editar"
+
+#: posts-list-block/templates/post-item.php:31
+msgctxt "designating the post author (eg: by John Doe"
+msgid "by"
+msgstr "por"
+
+#: posts-list-block/templates/post-item.php:23
+msgid "Featured"
+msgstr "Destacados"
+
+#: posts-list-block/templates/posts-list.php:30
+msgid "View all posts"
+msgstr "Ver todas las entradas"
+
+#. translators: 1: link to WP admin new post page.
+#: posts-list-block/templates/no-posts.php:17
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "¿Todo listo para publicar tu primera entrada? <a href=\"%1$s\">Empieza aquí</a>."
+
+#: posts-list-block/templates/no-posts.php:11
+msgid "There are currently no posts to display."
+msgstr "No hay entradas que mostrar."

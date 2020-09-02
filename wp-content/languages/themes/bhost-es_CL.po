@@ -1,0 +1,126 @@
+# Translation of Themes - Bhost in Spanish (Chile)
+# This file is distributed under the same license as the Themes - Bhost package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-01-29 03:09:53+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha\n"
+"Language: es_CL\n"
+"Project-Id-Version: Themes - Bhost\n"
+
+#. Description of the theme
+msgid "Bhost is a nice , clean , beautifull, Responsive and modern design free WordPress Theme. This theme made with Latest Bootstrap v3.3.5. You can use it for your corporate , personal , blog sites etc."
+msgstr "Bhost es un tema de libre uso, limpio, amigable, hermoso, Responsivo y com un diseño moderno para WordPress. Este tema está realizado con la última versión de Bootstrap. Siéntete libre de usarlo para tu sitio corporativo, personal o blog."
+
+#: inc/customizer.php:38
+msgid "Upgrade To Pro &raquo;"
+msgstr "Actualizar a Pro &raquo;"
+
+#: functions.php:244
+msgid "Your comment is awaiting moderation."
+msgstr "Tu comentario está esperando ser moderado."
+
+#: 404.php:20
+msgid "It looks like nothing was found at this location. Try again Thanks."
+msgstr "Parece que no hay nada en esta ubicación. Inténtalo nuevamente, gracias."
+
+#. Template Name of the theme
+msgid "Full Width Template"
+msgstr "Plantilla de ancho completo"
+
+#: content-single.php:41
+msgid "Written By"
+msgstr "Escrito por"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "Resultados de la búsqueda: %s"
+
+#. translators: used between list items, there is a space after the comma
+#: content.php:6 content.php:7 content-single.php:6 content-single.php:7
+#: content-search.php:10 content-search.php:11 inc/template-tags.php:30
+#: inc/template-tags.php:36
+msgid ", "
+msgstr ", "
+
+#: header.php:23
+msgid "Skip to content"
+msgstr "Ir al contenido"
+
+#: functions.php:95
+msgid "Sidebar"
+msgstr "Barra lateral"
+
+#: functions.php:52
+msgid "Primary Menu"
+msgstr "Menú Principal"
+
+#: footer.php:33
+msgid "Proudly powered by %s"
+msgstr "Orgullosamente Gestionado con %s"
+
+#: footer.php:33
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: content.php:36
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Continúe leyendo %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/template-tags.php:48 content-page.php:30
+msgid "Edit"
+msgstr "Editar"
+
+#: content.php:43 content-single.php:27 content-page.php:23
+msgid "Pages:"
+msgstr "Páginas:"
+
+#: content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Parece que no podemos encontrar lo que buscas. El buscador podría ayudarte."
+
+#: content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Lo siento, pero no encontramos resultados con tus términos de búsqueda. Por favor inténtalo nuevamente con otras palabras."
+
+#: content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "¿Listo para publicar tu primera entrada? <a href=\"%1$s\">Comienza aquí</a>."
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr "No se encontró"
+
+#: comments.php:63
+msgid "Comments are closed."
+msgstr "Comentarios cerrados."
+
+#: comments.php:37 comments.php:53
+msgid "Newer Comments &rarr;"
+msgstr "Comentarios recientes &rarr;"
+
+#: comments.php:36 comments.php:52
+msgid "&larr; Older Comments"
+msgstr "&larr; Comentarios anteriores"
+
+#: comments.php:35 comments.php:51
+msgid "Comment navigation"
+msgstr "Navegación de comentarios"
+
+#: comments.php:28
+msgctxt "comments title"
+msgid "One Comment on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s Comments on &ldquo;%2$s&rdquo;"
+msgstr[0] "Un Comentario en &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s Comentarios en &ldquo;%2$s&rdquo;"
+
+#: 404.php:16
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "¡Ups! No encontramos dicha página"
+
+#. Author of the theme
+msgid "Masum Billah"
+msgstr "Masum Billah"
